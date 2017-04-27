@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1491452832 source:c:\users\fauzynurn\desktop\graphics in dev c++ - copy\test graphics.h\test graphics.cpp
+	<graphics.h>
+	<conio.h>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string>
+	<vector>
+
+1492658918 source:e:\aaa\test graphics.h\test graphics.cpp
+	<graphics.h>
+	<conio.h>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
